@@ -7,7 +7,7 @@ function displayMenu() {
 Home.onclick = displayMenu;
 
 function closeMenu() {
-  menuBar.style.right = "-330px";
+  menuBar.style.right = "-400px";
 }
 
 document.getElementById("close").onclick = closeMenu;
